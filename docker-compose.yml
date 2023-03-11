@@ -1,0 +1,7 @@
+version: '3'
+services:
+  login_api:
+    build: .
+    volumes:
+      - ./logs:/app/logs
+      - ./config:/app/config

@@ -1,0 +1,401 @@
+2020-12-12 01:21:16 - INFO - finding user from datastore
+2020-12-12 01:30:36 - INFO - finding user from datastore
+2020-12-12 01:30:39 - INFO - user found, returning info
+2020-12-12 02:03:57 - INFO - finding user from datastore
+2020-12-12 02:04:00 - INFO - user found, returning info
+2020-12-12 02:47:59 - INFO - finding user from datastore
+2020-12-12 02:48:02 - INFO - user found, returning info
+2020-12-12 02:57:21 - INFO - finding user from datastore
+2020-12-12 02:57:23 - INFO - user found, returning info
+2020-12-12 02:58:36 - INFO - finding bu user's id from datastore
+2020-12-12 02:58:39 - INFO - id found, returning info
+2020-12-12 02:59:25 - INFO - finding bu user's id from datastore
+2020-12-12 02:59:27 - INFO - id found, returning info
+2020-12-12 03:00:32 - INFO - finding bu user's id from datastore
+2020-12-12 03:00:34 - INFO - id found, returning info
+2020-12-12 03:00:45 - INFO - finding bu user's id from datastore
+2020-12-12 03:00:47 - INFO - id found, returning info
+2020-12-12 03:00:55 - INFO - finding bu user's id from datastore
+2020-12-12 03:00:57 - INFO - id found, returning info
+2020-12-12 03:14:31 - INFO - finding user from datastore
+2020-12-12 03:14:34 - ERROR - user not found, please register
+2020-12-12 03:14:46 - INFO - finding user from datastore
+2020-12-12 03:14:49 - INFO - user found, returning info
+2020-12-12 03:15:18 - INFO - finding bu user's id from datastore
+2020-12-12 03:15:21 - INFO - id found, returning info
+2020-12-12 03:16:14 - INFO - finding bu user's id from datastore
+2020-12-12 03:16:17 - INFO - id found, returning info
+2020-12-12 03:16:33 - INFO - finding bu user's id from datastore
+2020-12-12 03:16:36 - INFO - id found, returning info
+2021-03-31 23:26:47 - INFO - finding user from datastore
+2021-03-31 23:27:54 - INFO - finding user from datastore
+2021-03-31 23:29:05 - INFO - finding user from datastore
+2021-03-31 23:34:54 - INFO - finding user from datastore
+2021-03-31 23:34:54 - INFO - user found, returning info
+2021-03-31 23:35:54 - INFO - finding bu user's id from datastore
+2022-06-06 11:55:04 - INFO - finding user from datastore
+2022-06-06 11:55:55 - INFO - finding user from datastore
+2022-06-06 12:05:30 - INFO - finding user from datastore
+2022-06-06 12:12:05 - INFO - finding user from datastore
+2022-06-06 12:12:05 - ERROR - user not found, please register
+2022-06-06 12:15:03 - INFO - finding user from datastore
+2022-06-06 12:15:03 - ERROR - user not found, please register
+2022-06-06 12:15:42 - INFO - finding user from datastore
+2022-06-06 12:15:42 - ERROR - user not found, please register
+2022-06-06 12:19:23 - INFO - finding user from datastore
+2022-06-06 12:19:23 - ERROR - user not found, please register
+2022-06-06 12:32:52 - INFO - finding user from datastore
+2022-06-06 12:32:52 - ERROR - user not found, please register
+2022-06-06 12:33:44 - INFO - finding user from datastore
+2022-06-06 12:33:44 - ERROR - user not found, please register
+2022-06-06 12:34:00 - INFO - finding user from datastore
+2022-06-06 12:34:00 - ERROR - user not found, please register
+2022-06-06 12:34:40 - INFO - finding user from datastore
+2022-06-06 12:34:40 - ERROR - user not found, please register
+2022-06-06 12:38:54 - INFO - finding user from datastore
+2022-06-06 12:38:54 - ERROR - user not found, please register
+2022-06-06 12:39:03 - INFO - finding user from datastore
+2022-06-06 12:39:03 - ERROR - user not found, please register
+2022-06-06 12:39:03 - INFO - inserting username: shantanu and password: shantanu26
+2022-06-06 12:39:03 - INFO - User created successfully
+2022-06-06 12:39:14 - INFO - finding user from datastore
+2022-06-06 12:39:14 - INFO - user found, returning info
+2022-06-06 12:44:29 - INFO - finding user from datastore
+2022-06-06 12:44:29 - ERROR - user not found, please register
+2022-06-06 12:44:29 - INFO - inserting username: shantanu1 and password: shantanu26
+2022-06-06 12:44:29 - INFO - User created successfully
+2022-06-06 12:54:58 - INFO - finding user from datastore
+2022-06-06 12:54:58 - INFO - user found, returning info
+2022-06-06 12:55:31 - INFO - finding user from datastore
+2022-06-06 12:55:31 - INFO - user found, returning info
+2022-06-06 12:56:04 - INFO - finding user from datastore
+2022-06-06 12:56:04 - INFO - user found, returning info
+2022-06-06 12:56:36 - INFO - finding user from datastore
+2022-06-06 12:56:36 - INFO - user found, returning info
+2022-06-06 12:57:39 - INFO - finding user from datastore
+2022-06-06 12:57:39 - INFO - user found, returning info
+2022-06-06 12:59:27 - INFO - finding user from datastore
+2022-06-06 12:59:27 - INFO - user found, returning info
+2022-06-06 13:00:35 - INFO - finding user from datastore
+2022-06-06 13:00:35 - INFO - user found, returning info
+2022-06-06 13:00:59 - INFO - finding user from datastore
+2022-06-06 13:00:59 - INFO - user found, returning info
+2022-06-06 13:02:47 - INFO - finding user from datastore
+2022-06-06 13:02:47 - INFO - user found, returning info
+2022-06-06 13:02:51 - INFO - finding user from datastore
+2022-06-06 13:02:51 - INFO - user found, returning info
+2022-06-06 13:04:36 - INFO - finding user from datastore
+2022-06-06 13:04:36 - INFO - user found, returning info
+2022-06-06 13:16:38 - INFO - finding user from datastore
+2022-06-06 13:16:44 - INFO - finding user from datastore
+2022-06-06 13:17:10 - INFO - finding user from datastore
+2022-06-06 13:17:38 - INFO - finding user from datastore
+2022-06-06 13:17:38 - ERROR - user not found, please register
+2022-06-06 13:18:04 - INFO - finding user from datastore
+2022-06-06 13:18:04 - ERROR - user not found, please register
+2022-06-06 13:18:42 - INFO - finding user from datastore
+2022-06-06 13:18:42 - ERROR - user not found, please register
+2022-06-06 13:21:54 - INFO - finding user from datastore
+2022-06-06 13:21:54 - ERROR - user not found, please register
+2022-06-06 13:23:18 - INFO - finding user from datastore
+2022-06-06 13:23:18 - ERROR - user not found, please register
+2022-06-06 13:23:18 - INFO - finding user from datastore
+2022-06-06 13:23:18 - ERROR - user not found, please register
+2022-06-06 13:24:12 - INFO - finding user from datastore
+2022-06-06 13:24:12 - ERROR - user not found, please register
+2022-06-06 13:24:12 - INFO - inserting username: shantanu and password: shantanu
+2022-06-06 13:24:12 - INFO - User created successfully
+2022-06-06 13:24:23 - INFO - finding user from datastore
+2022-06-06 13:24:23 - INFO - user found, returning info
+2022-06-06 18:44:49 - INFO - finding user from datastore
+2022-06-06 18:44:49 - INFO - user found, returning info
+2022-06-06 18:44:50 - INFO - finding user from datastore
+2022-06-06 18:44:50 - INFO - user found, returning info
+2022-06-06 18:44:51 - INFO - finding user from datastore
+2022-06-06 18:44:51 - INFO - user found, returning info
+2022-06-06 18:44:51 - INFO - finding user from datastore
+2022-06-06 18:44:51 - INFO - user found, returning info
+2022-06-06 18:44:51 - INFO - finding user from datastore
+2022-06-06 18:44:51 - INFO - user found, returning info
+2022-06-06 18:44:52 - INFO - finding user from datastore
+2022-06-06 18:44:52 - INFO - user found, returning info
+2022-06-06 18:44:52 - INFO - finding user from datastore
+2022-06-06 18:44:52 - INFO - user found, returning info
+2022-06-06 18:44:52 - INFO - finding user from datastore
+2022-06-06 18:44:52 - INFO - user found, returning info
+2022-06-06 18:44:52 - INFO - finding user from datastore
+2022-06-06 18:44:52 - INFO - user found, returning info
+2022-06-06 18:44:52 - INFO - finding user from datastore
+2022-06-06 18:44:52 - INFO - user found, returning info
+2022-06-06 18:44:53 - INFO - finding user from datastore
+2022-06-06 18:44:53 - INFO - user found, returning info
+2022-06-06 18:44:53 - INFO - finding user from datastore
+2022-06-06 18:44:53 - INFO - user found, returning info
+2022-06-06 18:44:53 - INFO - finding user from datastore
+2022-06-06 18:44:53 - INFO - user found, returning info
+2022-06-06 18:44:53 - INFO - finding user from datastore
+2022-06-06 18:44:53 - INFO - user found, returning info
+2022-06-06 18:44:53 - INFO - finding user from datastore
+2022-06-06 18:44:53 - INFO - user found, returning info
+2022-06-07 11:40:58 - INFO - finding user from datastore
+2022-06-07 11:40:58 - ERROR - user not found, please register
+2022-06-07 11:40:58 - INFO - inserting username: Shantanu Kumar Shukla and email: shantanushuklacse2017@gmail.com
+2022-06-07 11:40:58 - INFO - User created successfully
+2022-06-07 11:46:32 - INFO - finding user from datastore
+2022-06-07 11:46:32 - ERROR - user not found, please register
+2022-06-07 11:46:32 - INFO - inserting username: Shantanu Kumar Shukla and email: shantanushuklacse2017@gmail.com
+2022-06-07 11:46:32 - INFO - User created successfully
+2022-06-07 11:49:26 - INFO - finding user from datastore
+2022-06-07 11:49:26 - ERROR - user not found, please register
+2022-06-07 11:54:18 - INFO - finding user from datastore
+2022-06-07 11:54:18 - ERROR - user not found, please register
+2022-06-07 11:55:38 - INFO - finding user from datastore
+2022-06-07 11:55:38 - ERROR - user not found, please register
+2022-06-07 11:55:38 - INFO - inserting username: Shantanu Kumar Shukla and email: shantanushuklacse2017@gmail.com
+2022-06-07 11:55:38 - INFO - User created successfully
+2022-06-07 12:14:54 - INFO - finding user from datastore
+2022-06-07 12:14:54 - ERROR - user not found, please register
+2022-06-07 12:15:15 - INFO - finding user from datastore
+2022-06-07 12:15:15 - ERROR - user not found, please register
+2022-06-07 12:15:15 - INFO - inserting username: Shantanu Kumar Shukla and email: shantanushuklacse2017@gmail.com
+2022-06-07 12:15:15 - INFO - User created successfully
+2022-08-24 13:54:21 - INFO - finding user from datastore
+2022-09-11 10:23:48 - INFO - finding user from datastore
+2022-09-16 14:56:48 - INFO - finding user from datastore
+2022-09-16 14:56:48 - INFO - user found, returning info
+2022-09-16 14:57:24 - INFO - finding user from datastore
+2022-09-16 14:57:24 - ERROR - user not found, please register
+2022-09-16 14:57:24 - INFO - inserting username: Sunny Kumar Shukla and email: shantanushuklacse2017@gmail.com
+2022-09-16 14:59:17 - INFO - finding user from datastore
+2022-09-16 14:59:17 - INFO - user found, returning info
+2022-09-16 14:59:55 - INFO - finding user from datastore
+2022-09-16 14:59:55 - INFO - user found, returning info
+2022-09-16 15:00:20 - INFO - finding user from datastore
+2022-09-16 15:00:20 - INFO - user found, returning info
+2022-09-16 15:01:08 - INFO - finding user from datastore
+2022-09-16 15:01:08 - ERROR - user not found, please register
+2022-09-16 15:01:08 - INFO - inserting username: Sunny and email: shantanushuklacse2017@gmail.com
+2022-09-16 15:01:08 - INFO - User created successfully
+2022-09-16 15:01:49 - INFO - finding user from datastore
+2022-09-16 15:01:50 - ERROR - user not found, please register
+2022-09-16 15:01:50 - INFO - inserting username: john and email: shantanushuklacse2017@gmail.com
+2022-09-16 15:01:54 - INFO - User created successfully
+2022-09-16 15:18:24 - INFO - finding user from datastore
+2022-09-16 15:18:24 - ERROR - user not found, please register
+2022-09-16 15:18:24 - INFO - inserting username: Harry and email: shantanushuklacse2017@gmail.com
+2022-09-16 15:18:30 - INFO - User created successfully
+2022-09-16 15:19:47 - INFO - finding user from datastore
+2022-09-16 15:19:47 - ERROR - user not found, please register
+2022-09-16 15:19:47 - INFO - inserting username: json and email: shantanushuklacse2017@gmail.com
+2022-09-16 15:19:51 - INFO - User created successfully
+2022-09-16 15:25:18 - INFO - finding user from datastore
+2022-09-16 15:25:18 - INFO - user found, returning info
+2022-09-16 15:25:46 - INFO - finding user from datastore
+2022-09-16 15:25:46 - INFO - user found, returning info
+2022-09-16 15:26:34 - INFO - finding user from datastore
+2022-09-16 15:26:34 - ERROR - user not found, please register
+2022-09-16 15:28:41 - INFO - finding user from datastore
+2022-09-16 15:28:41 - ERROR - user not found, please register
+2022-09-16 15:28:52 - INFO - finding user from datastore
+2022-09-16 15:28:52 - ERROR - user not found, please register
+2022-09-16 15:28:52 - INFO - inserting username: finly and email: shantanushuklacse2017@gmail.com
+2022-09-16 15:28:57 - INFO - User created successfully
+2022-09-16 15:30:54 - INFO - finding user from datastore
+2022-09-16 15:30:54 - INFO - user found, returning info
+2022-09-16 15:31:01 - INFO - finding user from datastore
+2022-09-16 15:31:01 - ERROR - user not found, please register
+2022-09-16 15:31:01 - INFO - inserting username: Roy and email: shantanushuklacse2017@gmail.com
+2022-09-16 15:31:05 - INFO - User created successfully
+2022-09-20 12:09:40 - INFO - finding user from datastore
+2022-09-20 12:09:42 - ERROR - user not found, please register
+2022-09-20 12:09:43 - INFO - inserting username: Roy and email: shantanushuklacse2017@gmail.com
+2022-09-20 12:09:48 - INFO - User created successfully
+2022-09-20 12:28:03 - INFO - finding user from datastore
+2022-09-20 12:28:04 - ERROR - user not found, please register
+2022-09-20 12:28:05 - INFO - inserting username: shantanu and email: shantanushuklacse2017@gmail.com
+2022-09-20 12:28:10 - INFO - User created successfully
+2022-09-20 12:30:04 - INFO - finding user from datastore
+2022-09-20 12:30:06 - INFO - user found, returning info
+2022-09-20 12:34:32 - INFO - finding user from datastore
+2022-09-20 12:34:34 - INFO - user found, returning info
+2022-09-20 12:35:48 - INFO - finding user from datastore
+2022-09-20 12:35:49 - INFO - (14, 'shantanu', 'Shantanu', 'shantanushuklacse2017@gmail.com', '7905558348', '26/11/1994', 'Lucknow University')
+2022-09-20 12:35:49 - INFO - user found, returning info
+2022-09-20 12:37:32 - INFO - finding user from datastore
+2022-09-20 12:37:34 - INFO - 14
+2022-09-20 12:37:34 - INFO - user found, returning info
+2022-09-20 12:37:57 - INFO - finding user from datastore
+2022-09-20 12:37:58 - INFO - 14
+2022-09-20 12:37:58 - INFO - user found, returning info
+2022-09-20 12:39:36 - INFO - finding user from datastore
+2022-09-20 12:39:38 - INFO - user found, returning info
+2022-09-20 12:41:31 - INFO - finding user from datastore
+2022-09-20 12:41:32 - INFO - user found, returning info
+2022-09-20 12:45:49 - INFO - finding user from datastore
+2022-09-20 12:45:50 - INFO - user found, returning info
+2022-09-20 12:46:20 - INFO - finding user from datastore
+2022-09-20 12:46:21 - INFO - user found, returning info
+2022-09-20 12:55:42 - INFO - finding user from datastore
+2022-09-20 12:55:43 - INFO - 14
+2022-09-20 12:55:43 - INFO - user found, returning info
+2022-09-21 12:39:28 - INFO - finding user from datastore
+2022-09-21 12:39:29 - ERROR - user not found, please register
+2022-09-21 12:39:30 - INFO - inserting username: raghav and email: shantanushuklacse2017@gmail.com
+2022-09-21 12:39:38 - INFO - User created successfully
+2022-09-22 11:42:36 - INFO - finding user from datastore
+2022-09-26 12:44:38 - INFO - finding user from datastore
+2022-09-26 12:45:48 - INFO - finding user from datastore
+2022-09-26 12:45:48 - INFO - 5
+2022-09-26 12:45:48 - INFO - user found, returning info
+2022-09-26 12:46:20 - INFO - finding user from datastore
+2022-09-26 12:46:20 - INFO - 5
+2022-09-26 12:46:20 - INFO - user found, returning info
+2022-09-26 12:49:50 - INFO - finding user from datastore
+2022-09-26 12:49:50 - ERROR - user not found, please register
+2022-09-26 12:49:50 - INFO - inserting username: shantanu and email: shantanushuklacse2017@gmail.com
+2022-09-26 12:49:59 - INFO - User created successfully
+2022-09-26 12:53:30 - INFO - finding user from datastore
+2022-09-26 12:53:30 - INFO - user found, returning info
+2022-09-26 13:00:59 - INFO - finding user from datastore
+2022-09-26 13:00:59 - INFO - user found, returning info
+2022-09-26 13:02:43 - INFO - finding user from datastore
+2022-09-26 13:02:43 - INFO - user found, returning info
+2022-09-26 13:03:37 - INFO - finding user from datastore
+2022-09-26 13:03:37 - INFO - user found, returning info
+2022-09-26 13:04:20 - INFO - finding user from datastore
+2022-09-26 13:04:20 - INFO - user found, returning info
+2022-09-26 13:05:22 - INFO - finding user from datastore
+2022-09-26 13:05:22 - INFO - user found, returning info
+2022-09-26 13:07:34 - INFO - finding user from datastore
+2022-09-26 13:07:34 - INFO - shantanu
+2022-09-26 13:07:34 - INFO - user found, returning info
+2022-09-26 13:08:19 - INFO - finding user from datastore
+2022-09-26 13:08:19 - INFO - shantanu
+2022-09-26 13:08:19 - INFO - user found, returning info
+2022-09-26 13:10:32 - INFO - finding user from datastore
+2022-09-26 13:10:32 - INFO - shantanu
+2022-09-26 13:10:32 - INFO - user found, returning info
+2022-09-26 13:11:29 - INFO - finding user from datastore
+2022-09-26 13:11:29 - INFO - user found, returning info
+2022-09-26 13:11:57 - INFO - finding user from datastore
+2022-09-26 13:11:57 - INFO - user found, returning info
+2022-09-26 13:12:14 - INFO - finding user from datastore
+2022-09-26 13:12:14 - INFO - user found, returning info
+2022-09-26 13:12:57 - INFO - finding user from datastore
+2022-09-26 13:12:57 - INFO - user found, returning info
+2022-09-26 13:13:12 - INFO - finding user from datastore
+2022-09-26 13:13:12 - INFO - user found, returning info
+2022-09-26 13:14:21 - INFO - finding user from datastore
+2022-09-26 13:14:21 - INFO - user found, returning info
+2022-09-26 14:48:41 - INFO - finding user from datastore
+2022-09-26 14:49:04 - INFO - finding user from datastore
+2022-09-26 14:49:04 - INFO - user found, returning info
+2022-09-26 14:49:25 - INFO - finding user from datastore
+2022-09-26 14:49:25 - INFO - user found, returning info
+2022-09-26 14:49:59 - INFO - finding user from datastore
+2022-09-26 14:49:59 - INFO - user found, returning info
+2022-09-26 14:49:59 - INFO - ('shantanu',)
+2022-09-26 14:49:59 - ERROR - User with that username already exists
+2022-09-26 14:50:16 - INFO - finding user from datastore
+2022-09-26 14:50:16 - INFO - user found, returning info
+2022-09-26 14:50:16 - INFO - ('shantanu',)
+2022-09-26 14:50:16 - ERROR - User with that username already exists
+2022-09-26 14:50:22 - INFO - finding user from datastore
+2022-09-26 14:50:22 - INFO - user found, returning info
+2022-09-26 14:50:22 - INFO - ('shantanu',)
+2022-09-26 14:51:51 - INFO - finding user from datastore
+2022-09-26 14:51:51 - INFO - user found, returning info
+2022-09-26 14:51:51 - INFO - ('shantanu', 'raghav@admin')
+2022-09-26 14:51:56 - INFO - finding user from datastore
+2022-09-26 14:51:56 - INFO - user found, returning info
+2022-09-26 14:51:56 - INFO - ('shantanu', 'raghav@admin')
+2022-09-26 14:51:56 - ERROR - User with that username already exists
+2022-09-26 14:52:27 - INFO - finding user from datastore
+2022-09-26 14:52:27 - INFO - user found, returning info
+2022-09-26 14:52:27 - INFO - ('shantanu', 'raghav@admin')
+2022-09-26 14:54:47 - INFO - finding user from datastore
+2022-09-26 14:54:47 - INFO - user found, returning info
+2022-09-26 14:54:47 - INFO - ('shantanu', 'raghav@admin')
+2022-09-26 14:55:31 - INFO - finding user from datastore
+2022-09-26 14:55:31 - INFO - user found, returning info
+2022-09-26 14:55:31 - INFO - ('shantanu', 'raghav@admin')
+2022-09-26 14:56:10 - INFO - finding user from datastore
+2022-09-26 14:56:10 - INFO - user found, returning info
+2022-09-26 14:56:10 - INFO - ('shantanu', 'raghav@admin')
+2022-09-26 14:56:31 - INFO - finding user from datastore
+2022-09-26 14:56:31 - INFO - user found, returning info
+2022-09-26 14:56:31 - INFO - ('shantanu', 'raghav@admin')
+2022-09-26 14:57:05 - INFO - finding user from datastore
+2022-09-26 14:57:05 - INFO - user found, returning info
+2022-09-26 14:57:05 - INFO - ('shantanu', 'raghav@admin')
+2022-09-26 14:59:00 - INFO - finding user from datastore
+2022-09-26 14:59:00 - INFO - user found, returning info
+2022-09-26 14:59:00 - INFO - ('shantanu', 'raghav@admin')
+2022-09-26 14:59:17 - INFO - finding user from datastore
+2022-09-26 14:59:17 - INFO - user found, returning info
+2022-09-26 14:59:17 - INFO - ('shantanu', 'raghav@admin')
+2022-09-26 15:06:09 - INFO - finding user from datastore
+2022-09-26 15:06:09 - INFO - user found, returning info
+2022-09-26 15:06:09 - INFO - ('shantanu', 'raghav@admin')
+2022-09-26 15:09:18 - INFO - finding user from datastore
+2022-09-26 15:09:18 - INFO - user found, returning info
+2022-09-26 15:09:18 - INFO - ('shantanu', 'raghav@admin')
+2022-09-26 15:09:43 - INFO - finding user from datastore
+2022-09-26 15:09:43 - INFO - user found, returning info
+2022-09-26 15:09:43 - INFO - ('shantanu', 'raghav@admin')
+2022-09-26 15:10:10 - INFO - finding user from datastore
+2022-09-26 15:10:10 - INFO - user found, returning info
+2022-09-26 15:10:10 - INFO - ('shantanu', 'raghav@admin')
+2022-09-26 15:10:35 - INFO - finding user from datastore
+2022-09-26 15:10:35 - INFO - user found, returning info
+2022-09-26 15:10:35 - INFO - ('shantanu', 'raghav@admin')
+2022-09-26 15:12:14 - INFO - finding user from datastore
+2022-09-26 15:12:14 - INFO - user found, returning info
+2022-09-26 15:12:14 - INFO - (13, 'shantanu', 'raghav@admin')
+2022-09-26 15:12:43 - INFO - finding user from datastore
+2022-09-26 15:12:43 - INFO - user found, returning info
+2022-09-26 15:12:43 - INFO - (13, 'shantanu', 'raghav@admin')
+2022-09-26 15:16:29 - INFO - finding user from datastore
+2022-09-26 15:16:29 - INFO - user found, returning info
+2022-09-26 15:18:18 - INFO - finding user from datastore
+2022-09-26 15:18:18 - INFO - user found, returning info
+2022-09-26 15:22:21 - INFO - finding user from datastore
+2022-09-26 15:22:21 - INFO - user found, returning info
+2022-09-26 15:23:05 - INFO - finding user from datastore
+2022-09-26 15:23:05 - INFO - user found, returning info
+2022-09-26 15:23:30 - INFO - finding user from datastore
+2022-09-26 15:23:30 - INFO - user found, returning info
+2022-09-26 15:26:09 - INFO - finding user from datastore
+2022-09-26 15:26:09 - INFO - user found, returning info
+2022-09-26 15:26:23 - INFO - finding user from datastore
+2022-09-26 15:26:23 - INFO - user found, returning info
+2022-09-26 15:28:14 - INFO - finding user from datastore
+2022-09-26 15:28:14 - INFO - user found, returning info
+2022-09-26 15:31:55 - INFO - finding user from datastore
+2022-09-26 15:31:55 - INFO - user found, returning info
+2022-09-26 15:37:48 - INFO - finding user from datastore
+2022-09-26 15:37:48 - INFO - user found, returning info
+2022-09-26 15:45:55 - INFO - finding user from datastore
+2022-09-26 15:45:55 - INFO - user found, returning info
+2022-09-26 15:47:19 - INFO - finding user from datastore
+2022-09-26 15:47:19 - INFO - user found, returning info
+2022-09-26 15:48:10 - INFO - finding user from datastore
+2022-09-26 15:48:10 - INFO - user found, returning info
+2022-09-26 15:57:21 - INFO - finding user from datastore
+2022-09-26 15:57:21 - INFO - user found, returning info
+2022-09-26 16:00:46 - INFO - finding user from datastore
+2022-09-26 16:00:46 - INFO - user found, returning info
+2022-09-26 16:01:28 - INFO - finding user from datastore
+2022-09-26 16:01:28 - INFO - user found, returning info
+2022-09-26 16:32:59 - INFO - finding user from datastore
+2022-09-26 16:34:36 - INFO - finding user from datastore
+2022-09-26 16:34:36 - INFO - user found
+2022-09-26 16:35:29 - INFO - finding user from datastore
+2022-09-26 16:35:29 - INFO - user found
+2022-09-29 17:22:10 - INFO - finding user from datastore
+2022-09-29 17:22:10 - INFO - user found, returning info
+2022-09-29 17:22:10 - ERROR - User with that username already exists
+2022-10-13 20:34:55 - INFO - finding user from datastore
+2022-10-13 20:34:55 - ERROR - user not found, please register
+2022-10-13 20:34:55 - INFO - inserting username: raghav and email: shantanushuklacse2017@gmail.com
+2022-10-13 20:35:02 - INFO - User created successfully
